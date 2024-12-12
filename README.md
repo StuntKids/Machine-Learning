@@ -17,9 +17,12 @@ Data is taken from: https://www.kaggle.com/datasets/rendiputra/stunting-balita-d
 - TensorFlow
 - Google Colab
   
+# Model Architecture
+<div align="center">
+<img src="https://github.com/StuntKids/.github/blob/main/Model_architecture.png"width="40%" height="40%">
+</div>
 
 # Result
-
 <div align="center">
-<img src="https://github.com/StuntKids/.github/blob/main/download%20(2).png" width="50%" height="50%">
+<img src="https://github.com/StuntKids/.github/blob/main/download%20(2).png" width="60%" height="60%">
 </div>
