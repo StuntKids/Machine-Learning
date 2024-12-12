@@ -26,3 +26,15 @@ Data is taken from: https://www.kaggle.com/datasets/rendiputra/stunting-balita-d
 <div align="center">
 <img src="https://github.com/StuntKids/.github/blob/main/download%20(2).png" width="70%" height="70%">
 </div>
+
+# Documentation
+- Collect dataset about stunting
+- Cleaned the dataset from the duplicate data
+- Apply SMOTE technique to oversampling on imbalanced dataset
+- Split the dataset into 80% for the training and 20% for the test
+- Build the classification model
+- Train and evaluates the model
+- Build the model with hyperparameter tuning
+- Save the best model into h5 and convert it to TFLite
+- Create a matching algorithm to determine food recommendations based on the model's prediction results
+- Test the model
